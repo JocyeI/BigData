@@ -1,2 +1,0 @@
-# BigData
-BigData_Summary
