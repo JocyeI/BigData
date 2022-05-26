@@ -65,16 +65,17 @@
 <h2 align="center">Hive.</h2>
 
 * [数据仓库](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/Hive3.x_1_%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E5%9F%BA%E7%A1%80.md)
-* [Flink状态管理](https://github.com/Walhalla-Summary/BigData/blob/master/Flink/5_Flink%20%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86.md)
-* [Flink容错机制](https://github.com/Walhalla-Summary/BigData/blob/master/Flink/6_Flink%20%E7%9A%84%E5%AE%B9%E9%94%99%E6%9C%BA%E5%88%B6.md)
-* [Flink状态一致性](https://github.com/Walhalla-Summary/BigData/blob/master/Flink/7_Flink%20%E7%9A%84%E7%8A%B6%E6%80%81%E4%B8%80%E8%87%B4%E6%80%A7.md)
-* [Flink SQL & table api](https://github.com/Walhalla-Summary/BigData/blob/master/Flink/8_Table%20API%20%E5%92%8C%20Flink%20SQL.md)
-* [Flink cep](https://github.com/Walhalla-Summary/BigData/blob/master/Flink/9_Flink%20CEP%20%E7%AE%80%E4%BB%8B.md)
-* [Flink核心总结](https://github.com/Walhalla-Summary/BigData/blob/master/Flink/Flink%E6%A0%B8%E5%BF%83%E6%80%BB%E7%BB%93.md)
+* [数据定义](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/Hive3.x_2_%20%E6%95%B0%E6%8D%AE%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80(DDL).md)
+* [数据查询&操控](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/Hive3.x_3_%E6%95%B0%E6%8D%AE%E6%93%8D%E6%8E%A7%E3%80%81%E6%9F%A5%E8%AF%A2%E8%AF%AD%E8%A8%80%EF%BC%88DML%E3%80%81DQL%EF%BC%89.md)
+* [Hive参数配置](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/Hive3.x_4_%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE%26%E5%87%BD%E6%95%B0.md)
+* [Hive应用案例](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/Hive3.x_5_%E5%BA%94%E7%94%A8%E6%A1%88%E5%88%97.md)
+* [Hive性能优化&新特性](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/Hive3.x_6_%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%26Hive3%E6%96%B0%E7%89%B9%E6%80%A7.md)
+* [Hive性能优化](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/Hive%E5%9F%BA%E7%A1%80%E8%B0%83%E4%BC%98.md)
 * [Hive简介](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/1_Hive%E7%AE%80%E4%BB%8B.md)
 * [Hive核心解析](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/2_Hive%E6%80%BB%E7%BB%93.md)
 * [Hive架构与源码分析](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/3_Hive%E6%9E%B6%E6%9E%84%E4%B8%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
-
+* [Hive面试总结](https://github.com/Walhalla-Summary/BigData/blob/master/Hive/Hive%E5%9F%BA%E7%A1%80%E6%80%BB%E7%BB%93(%E9%9D%A2%E8%AF%95%E5%B8%B8%E7%94%A8).md)
+* 
 
 <h2 align="center">Hbase.</h2>
 
