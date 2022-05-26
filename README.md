@@ -15,8 +15,9 @@
 </p>
 
 <h2 align="center">Hadoop.</h2>
-* [**大数据概述**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/0_%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AF%BC%E8%AE%BA.md)
-* [**大数据环境配置宝典**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%AE%9D%E5%85%B8/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%84%E4%BB%B6%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%AE%9D%E5%85%B8.md)
+
+* [**大数据导论**](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/0_%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AF%BC%E8%AE%BA.md)
+* [**Hadoop介绍**](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/1_Hadoop%E4%BB%8B%E7%BB%8D.md)
 * [**Hadoop简介**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/1_Hadoop%E4%BB%8B%E7%BB%8D.md)
 * [**HDFS详解**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/2_HDFS.md)
 * [**HDFS核心精讲**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/HDFS%E6%A0%B8%E5%BF%83%E7%B2%BE%E8%AE%B2.md)
