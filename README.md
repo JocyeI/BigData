@@ -1,7 +1,5 @@
-
-# **大数据技术栈✨**
-
 <p align="center">
+ <h1 align="center">大数据技术栈✨.</h1>
  <a href="https://github.com/Walhalla-Summary/BigData">
  <img alt="auther" src="https://img.shields.io/badge/auther-Walhalla-orange">
  </a>
