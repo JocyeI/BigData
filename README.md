@@ -88,6 +88,9 @@
 
 <h2 align="center">Kafka.</h2>
 
+* [Kafka入门到精通](https://github.com/Walhalla-Summary/BigData/blob/master/Kafka/Kafka%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.md
+
+
 <h2 align="center">Flume.</h2>
 
 <h2 align="center">Zookeeper.</h2>
