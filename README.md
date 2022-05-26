@@ -44,6 +44,9 @@
 * [Spark 思维导图](https://github.com/Walhalla-Summary/BigData/blob/master/Spark/9_Spark%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%85%A5.md)
 * [Spark OOM](https://github.com/Walhalla-Summary/BigData/blob/master/Spark/10_Spark_OOM.md)
 * [Spark调优](https://github.com/Walhalla-Summary/BigData/blob/master/Spark/11_Spark%E8%B0%83%E4%BC%98.md)
+* [Spark SQL & Hive常用函数](https://github.com/Walhalla-Summary/BigData/blob/master/Spark/Spark%20SQLHive%E5%AE%9E%E7%94%A8%E5%87%BD%E6%95%B0%E5%A4%A7%E5%85%A8.md)
+* [Spark架构、cache和checkpoint区别和联系](https://github.com/Walhalla-Summary/BigData/blob/master/Spark/Spark%E6%9E%B6%E6%9E%84%E3%80%81cache%E5%92%8Ccheckpoint%E5%8C%BA%E5%88%AB%E5%92%8C%E8%81%94%E7%B3%BB.md)
+
 
 <h2 align="center">Flink.</h2>
 
