@@ -1,12 +1,17 @@
-<<<<<<< HEAD
-# BigData
-BigData_Summary
-=======
-# **大数据开源技术栈✨**
-[![](https://img.shields.io/badge/author-dsjprs-orange.svg)](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io)
-[![version](https://img.shields.io/badge/version-3.0-blue.svg)](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io)
-[![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io)
-![RepoSize](https://img.shields.io/github/repo-size/BigData-dsjprs/BigData-dsjprs.github.io?color=infomational&label=RepoSize&logo=RepoSize&logoColor=infomational&style=flat-square)
+
+# **大数据技术栈✨**
+
+<p align="center">
+ <a href="https://github.com/Walhalla-Summary/BigData">
+ <img alt="auther" src="https://img.shields.io/badge/auther-Walhalla-orange">
+ </a>
+ <a href="https://github.com/Walhalla-Summary/BigData">
+ <img alt="version" src="https://img.shields.io/badge/version-1.0.1-blue.svg">
+ </a>
+ <a href="https://github.com/Walhalla-Summary/BigData">
+  <img alt="rating" src="https://img.shields.io/badge/rating-★★★★☆-brightgreen">
+ </a> 
+</p>
 
 **欢迎到访！🎈**  
 
