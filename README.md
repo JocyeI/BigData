@@ -98,3 +98,7 @@
 
 <h2 align="center">Zookeeper.</h2>
 
+* [Zookeeper入门到精通](https://github.com/Walhalla-Summary/BigData/blob/master/Zookeeper/Zookeeper%20.md)
+* [Zookeeper面试总结](https://github.com/Walhalla-Summary/BigData/blob/master/Zookeeper/ZooKeeper%E9%9D%A2%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.md)
+
+
