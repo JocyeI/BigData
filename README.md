@@ -1,4 +1,4 @@
- <h1 align="center">大数据技术栈✨.</h1>
+<h1 align="center">大数据技术栈✨.</h1>
 <p align="center">
  <a href="https://github.com/Walhalla-Summary/BigData">
  <img alt="auther" src="https://img.shields.io/badge/auther-Walhalla-orange">
@@ -14,7 +14,26 @@
  <p align="center"> 欢迎到访！🎈,很高兴见到您~,祝您，早上好，中午好，下午好，晚安😴. </p>
 </p>
 
- <h2 align="center">Hadoop.</h3>
+<h2 align="center">Hadoop.</h2>
+
+<h2 align="center">Spark.</h2>
+
+
+<h2 align="center">Flink.</h2>
+
+
+<h2 align="center">Hive.</h2>
+
+
+<h2 align="center">Hbase.</h2>
+
+
+<h2 align="center">Kafka.</h2>
+
+<h2 align="center">Flume.</h2>
+
+<h2 align="center">Zookeeper.</h2>
+
 
 ## **技术栈路线😍**
 - [x] **计算机基础**
