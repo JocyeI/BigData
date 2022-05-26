@@ -11,11 +11,10 @@
  </a> 
 </p>
 <p align="center">
- <p align="center"> 欢迎到访！🎈,很高兴见到您~,祝您，早上好，中午好，下午好，晚安😴. 🚀[点我~emo啦~](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/emoji.md) 
-</p>
+ <p align="center"> 欢迎到访！🎈,很高兴见到您~,祝您，早上好，中午好，下午好，晚安😴. </p>
 </p>
 
-
+ <h2 align="center">Hadoop.</h3>
 
 ## **技术栈路线😍**
 - [x] **计算机基础**
