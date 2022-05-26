@@ -11,9 +11,7 @@
  </a> 
 </p>
 <p align="center">
- <p align="center"> 欢迎到访！🎈 </p>
- <p align="center"> 很高兴见到您~ </p>
- <p align="center"> 祝您，早上好，中午好，下午好，晚安！😮🤑 </p>
+ <p align="center"> 欢迎到访！🎈,很高兴见到您~,祝您，早上好，中午好，下午好，晚安！😮🤑 </p>
 </p>
 
 
