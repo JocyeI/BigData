@@ -14,7 +14,7 @@
  <p align="center"> 欢迎到访！🎈,很高兴见到您~,祝您，早上好，中午好，下午好，晚安😴. </p>
 </p>
 
-<h2 align="center">Hadoop.</h2>
+<h2 align="center">Hadoop✍.</h2>
 
 * [大数据导论](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/0_%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AF%BC%E8%AE%BA.md)
 * [Hadoop介绍](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/1_Hadoop%E4%BB%8B%E7%BB%8D.md)
@@ -24,10 +24,10 @@
 * [Hadoop性能优化](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/5_Hadoop%E8%B0%83%E4%BC%98.md)
 * [Hadoop源码解析](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/6_Hadoop%E6%BA%90%E7%A0%81.md)
 * [Hadoop 3.x 新特性](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/Hadoop3.X%E6%96%B0%E7%89%B9%E6%80%A7.md)
-* [**Hadoop调优**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/5_Hadoop%E8%B0%83%E4%BC%98.md)
-* [**Hadoop源码**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/6_Hadoop%E6%BA%90%E7%A0%81.md)
-* [**Hadoop3.x新特性**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/Hadoop3.X%E6%96%B0%E7%89%B9%E6%80%A7.md)
-* [**Hadoop面经**](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/Hadoop%E9%9D%A2%E7%BB%8F01.md)
+* [HDFS底层交互原理](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/HDFS%E5%BA%95%E5%B1%82%E4%BA%A4%E4%BA%92%E5%8E%9F%E7%90%86.md)
+* [HDFS核心解析](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/HDFS%E6%A0%B8%E5%BF%83%E7%B2%BE%E8%AE%B2.md)
+* [Hadoop面试总结](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/Hadoop%E6%A0%B8%E5%BF%83%E7%B2%BE%E8%AE%B2.md)
+
 
 
 
