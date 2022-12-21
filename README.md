@@ -25,7 +25,7 @@
 * [大数据导论](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/0_%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AF%BC%E8%AE%BA.md)
 * [Hadoop介绍](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/1_Hadoop%E4%BB%8B%E7%BB%8D.md)
 * [HDFS详解](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/2_HDFS.md)
-* [MapReduce详解](https://gitee.com/BigData-dsjprs/big-data-dsjprs.gitee.io/blob/master/Hadoop/2_HDFS.md)
+* [MapReduce详解](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/3_MapReduce.md)
 * [Yarn详解](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/4_Yarn.md)
 * [Hadoop性能优化](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/5_Hadoop%E8%B0%83%E4%BC%98.md)
 * [Hadoop源码解析](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/6_Hadoop%E6%BA%90%E7%A0%81.md)
